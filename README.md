@@ -40,7 +40,7 @@ Atualmente, foco em **desenvolvimento web, linguagens C e projetos de software p
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliton03-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elitondoamaral/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-seusite.com-green?style=for-the-badge&logo=google-chrome)](https://seusite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-seusite.com-green?style=for-the-badge&logo=google-chrome)](https://site.com)
 
 ---
 
